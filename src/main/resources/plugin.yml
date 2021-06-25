@@ -1,0 +1,6 @@
+name: Mapmaker3000
+version: ${project.version}
+main: com.larskrs.plugins.mapmaker3000.Mapmaker3000
+api-version: 1.17
+commands:
+  download:
